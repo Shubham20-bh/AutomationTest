@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing VWO Web Apps">
+    <test name="Regression">
+        <classes>
+            <class name="exercise1SeleniumBasics.TestSelenium02"/>
+            <class name="exercise1SeleniumBasics.TestSeleium03"/>
+            <class name="exercise1SeleniumBasics.TestSelenium04"/>
+           <!-- <class name="Googletest.MapsTest"/>
+            <class name="Googletest.ImagesTest"/>-->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
