@@ -3,9 +3,10 @@
 <suite name="Testing VWO Web Apps">
     <test name="Regression">
         <classes>
-            <class name="exercise1SeleniumBasics.TestSelenium02"/>
+          <!--  <class name="exercise1SeleniumBasics.TestSelenium02"/>
             <class name="exercise1SeleniumBasics.TestSeleium03"/>
-            <class name="exercise1SeleniumBasics.TestSelenium04"/>
+            <class name="exercise1SeleniumBasics.TestSelenium04"/>-->
+            <class name="exercise1SeleniumBasics.TestSelenium05"/>
            <!-- <class name="Googletest.MapsTest"/>
             <class name="Googletest.ImagesTest"/>-->
         </classes>
